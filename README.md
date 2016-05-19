@@ -8,6 +8,9 @@ A curated list of awesome frontend development resources
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
 - [awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares.
 
+## Algorithms
+- [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
+
 ## Authentication
 - [passport](http://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [passport-saml](https://github.com/bergie/passport-saml) - SAML 2.0 authentication with Passport.
@@ -90,6 +93,7 @@ A curated list of awesome frontend development resources
 - [react-dropzone](Convert hierarchical tree structure to flat structure.) - Simple HTML5 drag-drop zone with React.js.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
+- [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
@@ -109,6 +113,7 @@ A curated list of awesome frontend development resources
 
 ## Tools
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users.
+- [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows.
