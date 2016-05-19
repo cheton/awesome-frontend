@@ -5,16 +5,23 @@ A curated list of awesome frontend development resources
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 
+## Boilerplate
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
 ## CSS
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [bootstrap](https://github.com/twbs/bootstrap) -The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [css-modules](https://github.com/css-modules/css-modules) - A CSS file in which all class names and animation names are scoped locally by default.
+- [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations.
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
 
-### CSS Preprocessor
+#### CSS Preprocessor
 - [Less](https://github.com/less/less.js) - Leaner CSS.
 - [Sass](https://github.com/sass/sass) - Sass makes CSS fun again.
 - [Stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs.
+
+## Data Visualization
+- [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
 
 ## Date/Time
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript.
@@ -22,17 +29,14 @@ A curated list of awesome frontend development resources
 ## Graphics
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
-## HTML5
-- [push.js](https://github.com/Nickersoft/push.js) - Push is the fastest way to get up and running with Javascript desktop notifications.
-
 ## I18n
 - [i18next](https://github.com/i18next/i18next) - An internationalization framework.
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) - Scan your code, extract translation keys/values, and merge them into i18n resource files.
 
-## Icons
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit.
+## Icon fonts
+- [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit.
 
-## Presentations
+## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 
 ## React
@@ -64,6 +68,7 @@ A curated list of awesome frontend development resources
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
+- [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
 - [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match).
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 
