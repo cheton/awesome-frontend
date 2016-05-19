@@ -20,8 +20,10 @@ A curated list of awesome frontend development resources
 
 ## Build Tools
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
+- [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
 - [lodash-webpack-plugin](https://github.com/lodash/lodash-webpack-plugin) - Smaller modular Lodash builds.
+- [node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool.
 - [parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel.
 - [webpack](https://github.com/webpack/webpack) - A module bundler that bundles JavaScript and other assets for the browser.
 
@@ -61,10 +63,10 @@ A curated list of awesome frontend development resources
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
 ## Hardware
+- [cylon](https://github.com/hybridgroup/cylon/) - JavaScript framework for robotics, drones, and the Internet of Things (IoT).
 - [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework.
 - [node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport) - Node.js package to access serial ports for reading and writing OR Welcome your robotic JavaScript overlords.
 - [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
-- [cylon](https://github.com/hybridgroup/cylon/) - JavaScript framework for robotics, drones, and the Internet of Things (IoT).
 
 ## HTTP
 - [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for node.js
@@ -100,10 +102,10 @@ A curated list of awesome frontend development resources
 - [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
 
 ## Testing
-- [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
 - [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
-- [nyc](https://github.com/bcoe/nyc) - A code coverage tool that works well with subprocesses.
 - [mocha](https://github.com/mochajs/mocha) - A simple, flexible, fun JavaScript test framework for node.js and the browser.
+- [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
+- [nyc](https://github.com/bcoe/nyc) - A code coverage tool that works well with subprocesses.
 
 ## Tools
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users.
@@ -122,7 +124,10 @@ A curated list of awesome frontend development resources
 - [flattree](https://github.com/cheton/flattree) - Convert hierarchical tree structure to flat structure.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
+- [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
+- [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
+- [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 
 ## Web Frameworks
