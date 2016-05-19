@@ -6,6 +6,7 @@ A curated list of awesome frontend development resources
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares.
 
 ## Algorithms
