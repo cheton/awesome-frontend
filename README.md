@@ -12,6 +12,9 @@ A curated list of awesome frontend development resources
 - [passport](http://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [passport-saml](https://github.com/bergie/passport-saml) - SAML 2.0 authentication with Passport.
 
+## Automation
+- [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.
+
 ## Boilerplate
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
