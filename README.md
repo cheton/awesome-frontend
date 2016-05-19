@@ -10,12 +10,11 @@ A curated list of awesome frontend development resources
 
 ## CSS
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [bootstrap](https://github.com/twbs/bootstrap) -The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [css-modules](https://github.com/css-modules/css-modules) - A CSS file in which all class names and animation names are scoped locally by default.
 - [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations.
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
 
-#### CSS Preprocessor
+## CSS Preprocessor
 - [Less](https://github.com/less/less.js) - Leaner CSS.
 - [Sass](https://github.com/sass/sass) - Sass makes CSS fun again.
 - [Stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs.
@@ -25,6 +24,9 @@ A curated list of awesome frontend development resources
 
 ## Date/Time
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript.
+
+## Framework
+- [bootstrap](https://github.com/twbs/bootstrap) -The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Graphics
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
