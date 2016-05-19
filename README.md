@@ -2,8 +2,13 @@
 A curated list of awesome frontend development resources
 
 ## Awesome
+- [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
+
+## Authentication
+- [passport](http://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+- [passport-saml](https://github.com/bergie/passport-saml) - SAML 2.0 authentication with Passport.
 
 ## Boilerplate
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -27,6 +32,8 @@ A curated list of awesome frontend development resources
 
 ## Framework
 - [bootstrap](https://github.com/twbs/bootstrap) -The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [koa](http://koajs.com/) - Next generation web framework for Node.js.
 
 ## Graphics
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
@@ -35,7 +42,7 @@ A curated list of awesome frontend development resources
 - [i18next](https://github.com/i18next/i18next) - An internationalization framework.
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) - Scan your code, extract translation keys/values, and merge them into i18n resource files.
 
-## Icon fonts
+## Icon Fonts
 - [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit.
 
 ## Presentation
@@ -45,6 +52,7 @@ A curated list of awesome frontend development resources
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
+- [react-dropzone](Convert hierarchical tree structure to flat structure.) - Simple HTML5 drag-drop zone with React.js.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
@@ -67,7 +75,9 @@ A curated list of awesome frontend development resources
 - [big](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
+- [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+- [flattree](https://github.com/cheton/flattree) - Convert hierarchical tree structure to flat structure.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
 - [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
