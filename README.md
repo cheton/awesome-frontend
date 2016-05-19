@@ -27,7 +27,7 @@ A curated list of awesome frontend development resources
 ## Data Visualization
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
 
-## Date/Time
+## Date / Timezone
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript.
 
 ## Framework
