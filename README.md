@@ -42,11 +42,20 @@ A curated list of awesome frontend development resources
 - [Sass](https://github.com/sass/sass) - Sass makes CSS fun again.
 - [Stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs.
 
+## Control Flow
+- [async](https://github.com/caolan/async) - Async utilities for node and the browser.
+- [co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc).
+
 ## Data Visualization
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
 
-## Date / Timezone
+## Date
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript.
+- [moment-timezone](https://github.com/moment/moment-timezone/) - Timezone support for moment.js.
+
+## Documentation
+- [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
+- [documentation](https://github.com/documentationjs/documentation/) - Beautiful, flexible, powerful js docs.
 
 ## Graphics
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
@@ -87,6 +96,9 @@ A curated list of awesome frontend development resources
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
 
+## Real-time
+- [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
+
 ## Testing
 - [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
 - [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
@@ -116,6 +128,3 @@ A curated list of awesome frontend development resources
 ## Web Frameworks
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [koa](http://koajs.com/) - Next generation web framework for Node.js.
-
-## WebSocket
-- [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
