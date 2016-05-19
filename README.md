@@ -5,6 +5,8 @@ A curated list of awesome frontend development resources
 - [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+- [awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares.
 
 ## Authentication
 - [passport](http://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
@@ -12,6 +14,19 @@ A curated list of awesome frontend development resources
 
 ## Boilerplate
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+## Build Tools
+- [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
+- [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
+- [lodash-webpack-plugin](https://github.com/lodash/lodash-webpack-plugin) - Smaller modular Lodash builds.
+- [parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel.
+- [webpack](https://github.com/webpack/webpack) - A module bundler that bundles JavaScript and other assets for the browser.
+
+## Command-line Utilities
+- [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
+- [cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.js.
+- [commander.js](https://github.com/tj/commander.js/) - Node.js command-line interfaces made easy.
+- [node-progress](https://github.com/tj/node-progress) - Flexible ascii progress bar for nodejs.
 
 ## CSS
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -30,13 +45,19 @@ A curated list of awesome frontend development resources
 ## Date / Timezone
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript.
 
-## Framework
-- [bootstrap](https://github.com/twbs/bootstrap) -The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [koa](http://koajs.com/) - Next generation web framework for Node.js.
-
 ## Graphics
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+
+## Hardware
+- [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework.
+- [node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport) - Node.js package to access serial ports for reading and writing OR Welcome your robotic JavaScript overlords.
+- [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
+- [cylon](https://github.com/hybridgroup/cylon/) - JavaScript framework for robotics, drones, and the Internet of Things (IoT).
+
+## HTTP
+- [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for node.js
+- [request](https://github.com/request/request) - Simplified HTTP request client.
+- [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match).
 
 ## I18n
 - [i18next](https://github.com/i18next/i18next) - An internationalization framework.
@@ -63,6 +84,12 @@ A curated list of awesome frontend development resources
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
 
+## Testing
+- [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
+- [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
+- [nyc](https://github.com/bcoe/nyc) - A code coverage tool that works well with subprocesses.
+- [mocha](https://github.com/mochajs/mocha) - A simple, flexible, fun JavaScript test framework for node.js and the browser.
+
 ## Tools
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users.
 - [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
@@ -81,14 +108,11 @@ A curated list of awesome frontend development resources
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
 - [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
-- [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match).
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
+
+## Web Frameworks
+- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [koa](http://koajs.com/) - Next generation web framework for Node.js.
 
 ## WebSocket
 - [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
-
-## Workflow
-- [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
-- [lodash-webpack-plugin](https://github.com/lodash/lodash-webpack-plugin) - Smaller modular Lodash builds.
-- [parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel.
-- [webpack](https://github.com/webpack/webpack) - A module bundler that bundles JavaScript and other assets for the browser.
