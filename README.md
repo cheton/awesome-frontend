@@ -20,6 +20,7 @@ A curated list of awesome frontend development resources
 - [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.
 
 ## Boilerplate
+- [babel-plugin-boilerplate](https://github.com/supreetpal/babel-plugin-boilerplate) - A setup to get you started on building babel plugins.
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 ## Build Tools
@@ -127,6 +128,7 @@ A curated list of awesome frontend development resources
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+- [find-imports](https://github.com/cheton/find-imports) - Find all imported modules in JavaScript files.
 - [flattree](https://github.com/cheton/flattree) - Convert hierarchical tree structure to flat structure.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
