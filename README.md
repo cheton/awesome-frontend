@@ -21,6 +21,7 @@ A curated list of awesome frontend development resources
 
 ## Boilerplate
 - [babel-plugin-boilerplate](https://github.com/supreetpal/babel-plugin-boilerplate) - A setup to get you started on building babel plugins.
+- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 ## Build Tools
