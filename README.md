@@ -56,6 +56,9 @@ A curated list of awesome frontend development resources
 ## Data Visualization
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
 
+## Database
+- [mongojs](https://github.com/mafintosh/mongojs) - Node.js module that implements the offical mongo api.
+
 ## Date
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript.
 - [moment-timezone](https://github.com/moment/moment-timezone/) - Timezone support for moment.js.
@@ -125,6 +128,7 @@ A curated list of awesome frontend development resources
 ## Utilities
 - [big](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
+- [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
