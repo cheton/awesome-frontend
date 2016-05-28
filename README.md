@@ -107,6 +107,7 @@ A curated list of awesome frontend development resources
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
+- [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
 
 ## Real-time
 - [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
