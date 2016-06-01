@@ -94,6 +94,7 @@ A curated list of awesome frontend development resources
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 
 ## React
+- [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
