@@ -90,6 +90,9 @@ A curated list of awesome frontend development resources
 ## Icon Fonts
 - [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit.
 
+## Multi-touch
+- [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
+
 ## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 
