@@ -1,6 +1,10 @@
 # Awesome Frontend Development Resources
 A curated list of awesome frontend development resources
 
+## Ask Me Anything
+- https://github.com/sindresorhus/ama
+- https://github.com/kentcdodds/ama
+
 ## Awesome
 - [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
