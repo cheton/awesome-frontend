@@ -84,6 +84,8 @@ A curated list of awesome frontend development resources
 - [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
 
 ## HTTP
+- [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+- [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to node.js and io.js.
 - [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for node.js
 - [request](https://github.com/request/request) - Simplified HTTP request client.
 - [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match).
