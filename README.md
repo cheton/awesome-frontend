@@ -152,6 +152,7 @@ A curated list of awesome frontend development resources
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 
