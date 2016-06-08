@@ -7,6 +7,7 @@ A curated list of awesome frontend development resources
 
 ## Awesome
 - [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
