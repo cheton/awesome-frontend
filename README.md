@@ -36,6 +36,7 @@ A curated list of awesome frontend development resources
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
 - [lodash-webpack-plugin](https://github.com/lodash/lodash-webpack-plugin) - Smaller modular Lodash builds.
 - [node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool.
+- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Node.js tool for easy binary deployment of C++ addons.
 - [parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel.
 - [webpack](https://github.com/webpack/webpack) - A module bundler that bundles JavaScript and other assets for the browser.
 
