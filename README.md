@@ -45,6 +45,9 @@ A curated list of awesome frontend development resources
 - [commander.js](https://github.com/tj/commander.js/) - Node.js command-line interfaces made easy.
 - [node-progress](https://github.com/tj/node-progress) - Flexible ascii progress bar for nodejs.
 
+## Computer Vision
+- [node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js.
+
 ## CSS
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [css-modules](https://github.com/css-modules/css-modules) - A CSS file in which all class names and animation names are scoped locally by default.
