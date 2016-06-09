@@ -48,6 +48,10 @@ A curated list of awesome frontend development resources
 ## Computer Vision
 - [node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js.
 
+## Control Flow
+- [async](https://github.com/caolan/async) - Async utilities for node and the browser.
+- [co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc).
+
 ## CSS
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [css-modules](https://github.com/css-modules/css-modules) - A CSS file in which all class names and animation names are scoped locally by default.
@@ -58,10 +62,6 @@ A curated list of awesome frontend development resources
 - [Less](https://github.com/less/less.js) - Leaner CSS.
 - [Sass](https://github.com/sass/sass) - Sass makes CSS fun again.
 - [Stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs.
-
-## Control Flow
-- [async](https://github.com/caolan/async) - Async utilities for node and the browser.
-- [co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc).
 
 ## Data Visualization
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
