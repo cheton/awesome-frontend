@@ -168,6 +168,9 @@ A curated list of awesome frontend development resources
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 
+## Virtual Reality
+- [aframe](https://github.com/aframevr/aframe) - Building Blocks for the VR Web.
+
 ## Web Frameworks
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [koa](http://koajs.com/) - Next generation web framework for Node.js.
