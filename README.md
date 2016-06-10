@@ -143,6 +143,7 @@ A curated list of awesome frontend development resources
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows.
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions.
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 - [visual-center](https://github.com/javierbyte/visual-center) - This is a tool that will find the visual center of your images.
 
 ## Utilities
