@@ -156,6 +156,8 @@ A curated list of awesome frontend development resources
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [find-imports](https://github.com/cheton/find-imports) - Find all imported modules in JavaScript files.
 - [flattree](https://github.com/cheton/flattree) - Convert hierarchical tree structure to flat structure.
+- [glob](https://github.com/isaacs/node-glob) - glob functionality for node.js.
+- [globby](https://github.com/sindresorhus/globby) - Extends `glob` with support for multiple patterns.
 - [jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
