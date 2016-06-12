@@ -79,6 +79,9 @@ A curated list of awesome frontend development resources
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [documentation](https://github.com/documentationjs/documentation/) - Beautiful, flexible, powerful js docs.
 
+## DOM
+- https://github.com/npm-dom - DOM Modules in NPM.
+
 ## Graphics
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
