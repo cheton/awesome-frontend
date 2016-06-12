@@ -83,6 +83,7 @@ A curated list of awesome frontend development resources
 **DOM Modules in NPM** (https://github.com/npm-dom)
 - [class-list](https://github.com/npm-dom/class-list) - A cross-browser class list.
 - [component-delegate](https://www.npmjs.com/package/component-delegate) - Event delegation component.
+- [delegate-dom](https://github.com/npm-dom/delegate-dom) - Event delegation library.
 - [dom-classes](https://github.com/npm-dom/dom-classes) - Cross-browser element class manipulation.
 - [dom-event](https://github.com/npm-dom/dom-event) - Add/remove DOM events.
 - [dom-select](https://github.com/npm-dom/dom-select) - Select DOM.
