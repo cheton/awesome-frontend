@@ -80,7 +80,16 @@ A curated list of awesome frontend development resources
 - [documentation](https://github.com/documentationjs/documentation/) - Beautiful, flexible, powerful js docs.
 
 ## DOM
-- https://github.com/npm-dom - DOM Modules in NPM.
+**DOM Modules in NPM** (https://github.com/npm-dom)
+- [class-list](https://github.com/npm-dom/class-list) - A cross-browser class list.
+- [component-delegate](https://www.npmjs.com/package/component-delegate) - Event delegation component.
+- [dom-classes](https://github.com/npm-dom/dom-classes) - Cross-browser element class manipulation.
+- [dom-event](https://github.com/npm-dom/dom-event) - Add/remove DOM events.
+- [dom-select](https://github.com/npm-dom/dom-select) - Select DOM.
+- [dom-style](https://github.com/npm-dom/dom-style) - Library to manipulate CSS properties.
+- [dom-value](https://github.com/npm-dom/dom-value) - Get / set form input values.
+- [is-dom](https://github.com/npm-dom/is-dom) - Check if the given object is a dom node.
+- [offset](https://www.npmjs.com/package/offset) - Get the xy offset of an element.
 
 ## Graphics
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
