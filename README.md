@@ -110,7 +110,6 @@ A curated list of awesome frontend development resources
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 
 ## React
-- [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
@@ -151,10 +150,12 @@ A curated list of awesome frontend development resources
 
 ## Utilities
 - [big](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
+- [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+- [escape-html](https://github.com/component/escape-html) - Escape string for use in HTML.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [find-imports](https://github.com/cheton/find-imports) - Find all imported modules in JavaScript files.
 - [flattree](https://github.com/cheton/flattree) - Convert hierarchical tree structure to flat structure.
