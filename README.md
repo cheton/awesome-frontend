@@ -162,6 +162,7 @@ A curated list of awesome frontend development resources
 - [flattree](https://github.com/cheton/flattree) - Convert hierarchical tree structure to flat structure.
 - [glob](https://github.com/isaacs/node-glob) - glob functionality for node.js.
 - [globby](https://github.com/sindresorhus/globby) - Extends [glob](https://github.com/isaacs/node-glob) with support for multiple patterns.
+- [html-tag](https://github.com/cheton/html-tag) - A simple utility for creating HTML tags.
 - [jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
