@@ -34,6 +34,7 @@ A curated list of awesome frontend development resources
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 - [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
+- [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin) - Simplifies creation of HTML files to serve your webpack bundles.
 - [lodash-webpack-plugin](https://github.com/lodash/lodash-webpack-plugin) - Smaller modular Lodash builds.
 - [node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Node.js tool for easy binary deployment of C++ addons.
