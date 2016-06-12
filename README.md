@@ -155,6 +155,7 @@ A curated list of awesome frontend development resources
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+- [element-class](https://github.com/maxogden/element-class) - Like .addClass and .removeClass from jquery but without dependencies.
 - [escape-html](https://github.com/component/escape-html) - Escape string for use in HTML.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [find-imports](https://github.com/cheton/find-imports) - Find all imported modules in JavaScript files.
