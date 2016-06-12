@@ -80,17 +80,19 @@ A curated list of awesome frontend development resources
 - [documentation](https://github.com/documentationjs/documentation/) - Beautiful, flexible, powerful js docs.
 
 ## DOM
-**DOM Modules in NPM** (https://github.com/npm-dom)
 - [class-list](https://github.com/npm-dom/class-list) - A cross-browser class list.
 - [component-delegate](https://www.npmjs.com/package/component-delegate) - Event delegation component.
 - [delegate-dom](https://github.com/npm-dom/delegate-dom) - Event delegation library.
+- [element-class](https://github.com/maxogden/element-class) - Like .addClass and .removeClass from jquery but without dependencies.
 - [dom-classes](https://github.com/npm-dom/dom-classes) - Cross-browser element class manipulation.
-- [dom-event](https://github.com/npm-dom/dom-event) - Add/remove DOM events.
+- [dom-events](https://www.npmjs.com/package/dom-events) - DOM event binding and emitting.
 - [dom-select](https://github.com/npm-dom/dom-select) - Select DOM.
 - [dom-style](https://github.com/npm-dom/dom-style) - Library to manipulate CSS properties.
 - [dom-value](https://github.com/npm-dom/dom-value) - Get / set form input values.
 - [is-dom](https://github.com/npm-dom/is-dom) - Check if the given object is a dom node.
+- [jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js.
 - [offset](https://www.npmjs.com/package/offset) - Get the xy offset of an element.
+- [synthetic-dom-events](https://github.com/defunctzombie/synthetic-dom-events) - Create DOM events for builtin event types.
 
 ## Graphics
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
@@ -168,7 +170,6 @@ A curated list of awesome frontend development resources
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
-- [element-class](https://github.com/maxogden/element-class) - Like .addClass and .removeClass from jquery but without dependencies.
 - [escape-html](https://github.com/component/escape-html) - Escape string for use in HTML.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [find-imports](https://github.com/cheton/find-imports) - Find all imported modules in JavaScript files.
@@ -176,7 +177,6 @@ A curated list of awesome frontend development resources
 - [glob](https://github.com/isaacs/node-glob) - glob functionality for node.js.
 - [globby](https://github.com/sindresorhus/globby) - Extends [glob](https://github.com/isaacs/node-glob) with support for multiple patterns.
 - [html-tag](https://github.com/cheton/html-tag) - A simple utility for creating HTML tags.
-- [jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
