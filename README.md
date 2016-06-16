@@ -123,6 +123,7 @@ A curated list of awesome frontend development resources
 
 ## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
+- [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
 
 ## React
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
