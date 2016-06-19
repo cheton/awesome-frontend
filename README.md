@@ -191,6 +191,10 @@ A curated list of awesome frontend development resources
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 
+## Video
+- [jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript.
+- [node-rtsp-stream](https://github.com/kyriesent/node-rtsp-stream) - Stream any RTSP stream and output to websocket for consumption by [jsmpeg](https://github.com/phoboslab/jsmpeg).
+
 ## Virtual Reality
 - [aframe](https://github.com/aframevr/aframe) - Building Blocks for the VR Web.
 
