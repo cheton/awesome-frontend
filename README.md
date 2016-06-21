@@ -193,6 +193,7 @@ A curated list of awesome frontend development resources
 
 ## Video
 - [jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript.
+- [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org).
 - [node-rtsp-stream](https://github.com/kyriesent/node-rtsp-stream) - Stream any RTSP stream and output to websocket for consumption by [jsmpeg](https://github.com/phoboslab/jsmpeg).
 
 ## Virtual Reality
