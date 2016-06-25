@@ -49,6 +49,7 @@ A curated list of awesome frontend development resources
 
 ## Computer Vision
 - [node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js.
+- [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 
 ## Control Flow
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser.
