@@ -118,6 +118,9 @@ A curated list of awesome frontend development resources
 ## Icon Fonts
 - [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit.
 
+## Mail
+- (nodemailer)[https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
+
 ## Multi-touch
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
 
