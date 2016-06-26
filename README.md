@@ -119,7 +119,7 @@ A curated list of awesome frontend development resources
 - [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework.
 - [node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport) - Node.js package to access serial ports for reading and writing OR Welcome your robotic JavaScript overlords.
 - [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
-- 
+
 ## Mail
 - (nodemailer)[https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
