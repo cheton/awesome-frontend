@@ -121,7 +121,7 @@ A curated list of awesome frontend development resources
 - [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
 
 ## Mail
-- (nodemailer)[https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
+- [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
 ## Touch Screen
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
