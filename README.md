@@ -95,6 +95,9 @@ A curated list of awesome frontend development resources
 - [offset](https://www.npmjs.com/package/offset) - Get the xy offset of an element.
 - [synthetic-dom-events](https://github.com/defunctzombie/synthetic-dom-events) - Create DOM events for builtin event types.
 
+## Game
+- [gamepad](https://github.com/w3c/gamepad) - Gamepad specification.
+
 ## Graphics
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
