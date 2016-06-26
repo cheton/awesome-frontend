@@ -122,8 +122,9 @@ A curated list of awesome frontend development resources
 ## Mail
 - (nodemailer)[https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
-## Multi-touch
+## Touch Screen
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
+- [virtualjoystick](https://github.com/jeromeetienne/virtualjoystick.js) - A virtual joystick library to emulate a joystick on touch screen in javascript.
 
 ## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
