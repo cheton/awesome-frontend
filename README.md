@@ -99,12 +99,6 @@ A curated list of awesome frontend development resources
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
-## Hardware
-- [cylon](https://github.com/hybridgroup/cylon/) - JavaScript framework for robotics, drones, and the Internet of Things (IoT).
-- [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework.
-- [node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport) - Node.js package to access serial ports for reading and writing OR Welcome your robotic JavaScript overlords.
-- [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
-
 ## HTTP
 - [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to node.js and io.js.
@@ -119,6 +113,13 @@ A curated list of awesome frontend development resources
 ## Icon Fonts
 - [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit.
 
+## IoT
+- [cylon](https://github.com/hybridgroup/cylon/) - JavaScript framework for robotics, drones, and the Internet of Things (IoT).
+- [Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter.
+- [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework.
+- [node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport) - Node.js package to access serial ports for reading and writing OR Welcome your robotic JavaScript overlords.
+- [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
+- 
 ## Mail
 - (nodemailer)[https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
