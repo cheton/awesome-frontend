@@ -142,6 +142,7 @@ A curated list of awesome frontend development resources
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-dropzone](Convert hierarchical tree structure to flat structure.) - Simple HTML5 drag-drop zone with React.js.
 - [react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers.
+- [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
