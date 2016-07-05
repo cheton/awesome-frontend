@@ -140,6 +140,7 @@ A curated list of awesome frontend development resources
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
+- [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
 - [react-dropzone](Convert hierarchical tree structure to flat structure.) - Simple HTML5 drag-drop zone with React.js.
 - [react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
@@ -147,6 +148,7 @@ A curated list of awesome frontend development resources
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
+- [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
