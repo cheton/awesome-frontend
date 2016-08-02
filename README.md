@@ -33,6 +33,7 @@ A curated list of awesome frontend development resources
 ## Build Tools
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 - [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+- [extract-text-webpack-plugin](https://github.com/webpack/extract-text-webpack-plugin) - Extract text from bundle into a file.
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
 - [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin) - Simplifies creation of HTML files to serve your webpack bundles.
 - [lodash-webpack-plugin](https://github.com/lodash/lodash-webpack-plugin) - Smaller modular Lodash builds.
