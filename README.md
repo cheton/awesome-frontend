@@ -148,6 +148,7 @@ A curated list of awesome frontend development resources
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
+- [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
@@ -166,6 +167,7 @@ A curated list of awesome frontend development resources
 ## Testing
 - [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
 - [mocha](https://github.com/mochajs/mocha) - A simple, flexible, fun JavaScript test framework for node.js and the browser.
+- [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library. http://nightmarejs.org
 - [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
 - [nyc](https://github.com/bcoe/nyc) - A code coverage tool that works well with subprocesses.
 
