@@ -141,6 +141,7 @@ A curated list of awesome frontend development resources
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
+- [react-dates](https://github.com/airbnb/react-dates) - An accessible, easily internationalizable, mobile-friendly datepicker library for the web.
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
 - [react-dropzone](Convert hierarchical tree structure to flat structure.) - Simple HTML5 drag-drop zone with React.js.
