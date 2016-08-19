@@ -41,6 +41,7 @@ A curated list of awesome frontend development resources
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Node.js tool for easy binary deployment of C++ addons.
 - [parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel.
 - [webpack](https://github.com/webpack/webpack) - A module bundler that bundles JavaScript and other assets for the browser.
+- [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server.
 
 ## Command-line Utilities
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
