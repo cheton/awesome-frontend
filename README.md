@@ -168,6 +168,7 @@ A curated list of awesome frontend development resources
 - [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
 
 ## Testing
+- [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
 - [mocha](https://github.com/mochajs/mocha) - A simple, flexible, fun JavaScript test framework for node.js and the browser.
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library. http://nightmarejs.org
