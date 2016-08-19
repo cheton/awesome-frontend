@@ -101,6 +101,7 @@ A curated list of awesome frontend development resources
 - [gamepad](https://github.com/w3c/gamepad) - Gamepad specification.
 
 ## Graphics
+- [obelisk.js](https://github.com/nosir/obelisk.js) - JavaScript library for building pixel isometric graphics with HTML5 canvas.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
