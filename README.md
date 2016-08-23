@@ -149,9 +149,12 @@ A curated list of awesome frontend development resources
 - [react-dropzone](Convert hierarchical tree structure to flat structure.) - Simple HTML5 drag-drop zone with React.js.
 - [react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+- [react-hotkeys](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React.
+- [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
+- [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
