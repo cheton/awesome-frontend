@@ -164,6 +164,7 @@ A curated list of awesome frontend development resources
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
+- [redux-auth](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
