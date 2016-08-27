@@ -137,6 +137,7 @@ A curated list of awesome frontend development resources
 ## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 - [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
+- [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide) - :metal: Present code with style.
 - [spectacle-editor](https://github.com/FormidableLabs/spectacle-editor) - Drag and drop Spectacle editor.
 
 ## React
