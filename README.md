@@ -94,6 +94,7 @@ A curated list of awesome frontend development resources
 - [dom-select](https://github.com/npm-dom/dom-select) - Select DOM.
 - [dom-style](https://github.com/npm-dom/dom-style) - Library to manipulate CSS properties.
 - [dom-value](https://github.com/npm-dom/dom-value) - Get / set form input values.
+- [in-view](https://github.com/camwiegert/in-view) - Get notified when a DOM element enters or exits the viewport.
 - [is-dom](https://github.com/npm-dom/is-dom) - Check if the given object is a dom node.
 - [jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js.
 - [offset](https://www.npmjs.com/package/offset) - Get the xy offset of an element.
