@@ -151,6 +151,7 @@ A curated list of awesome frontend development resources
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
 - [react-dropzone](Convert hierarchical tree structure to flat structure.) - Simple HTML5 drag-drop zone with React.js.
 - [react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers.
+- [react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-hotkeys](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React.
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
