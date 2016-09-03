@@ -132,10 +132,6 @@ A curated list of awesome frontend development resources
 ## Mail
 - [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
-## Touch Screen
-- [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
-- [virtualjoystick](https://github.com/jeromeetienne/virtualjoystick.js) - A virtual joystick library to emulate a joystick on touch screen in javascript.
-
 ## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 - [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
@@ -178,6 +174,7 @@ A curated list of awesome frontend development resources
 ## Testing
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
+- [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
 - [mocha](https://github.com/mochajs/mocha) - A simple, flexible, fun JavaScript test framework for node.js and the browser.
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library. http://nightmarejs.org
 - [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
@@ -195,6 +192,10 @@ A curated list of awesome frontend development resources
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation.
 - [visual-center](https://github.com/javierbyte/visual-center) - This is a tool that will find the visual center of your images.
+
+## Touch Screen
+- [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
+- [virtualjoystick](https://github.com/jeromeetienne/virtualjoystick.js) - A virtual joystick library to emulate a joystick on touch screen in javascript.
 
 ## Utilities
 - [big](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
